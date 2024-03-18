@@ -25,7 +25,7 @@
     {
       "id": "5",
       "text": "test1",
-      "phone": "123-456-7890",
+      "phone": "(123)456-7890",
       "price": "15 $",
       "email": "test5@example.com",
       "zip": "54321",
@@ -36,7 +36,7 @@
     {
       "id": "6",
       "text": "Bonjour6",
-      "phone": "456-789-0123",
+      "phone": "(456)789-0123",
       "price": "20 $",
       "email": "test6@example.com",
       "zip": "54321",
@@ -47,7 +47,7 @@
     {
       "id": "7",
       "text": "colourpop",
-      "phone": "789-012-3456",
+      "phone": "(789)012-3456",
       "price": "25 $",
       "email": "test7@example.com",
       "zip": "54321",
@@ -58,7 +58,7 @@
     {
       "id": "8",
       "text": "test2",
-      "phone": "012-345-6789",
+      "phone": "(012)345-6789",
       "price": "30 $",
       "email": "test8@example.com",
       "zip": "54321",
@@ -69,7 +69,7 @@
     {
       "id": "9",
       "text": "Namaste9",
-      "phone": "321-654-9870",
+      "phone": "(321)654-9870",
       "price": "35 $",
       "email": "test9@example.com",
       "zip": "54321",
@@ -80,7 +80,7 @@
     {
       "id": "10",
       "text": "Salam10",
-      "phone": "654-987-0123",
+      "phone": "(654)987-0123",
       "price": "40 $",
       "email": "test10@example.com",
       "zip": "54321",
@@ -91,7 +91,7 @@
     {
       "id": "11",
       "text": "test3",
-      "phone": "987-012-3456",
+      "phone": "(987)012-3456",
       "price": "45 $",
       "email": "test11@example.com",
       "zip": "54321",
@@ -102,7 +102,7 @@
     {
       "id": "12",
       "text": "Ni Hao12",
-      "phone": "012-345-6789",
+      "phone": "(012)345-6789",
       "price": "50 $",
       "email": "test12@example.com",
       "zip": "54321",
@@ -113,7 +113,7 @@
     {
       "id": "13",
       "text": "maybelline",
-      "phone": "321-654-9870",
+      "phone": "(321)654-9870",
       "price": "55 $",
       "email": "test13@example.com",
       "zip": "54321",
@@ -124,7 +124,7 @@
     {
       "id": "14",
       "text": "Merhaba14",
-      "phone": "654-987-0123",
+      "phone": "(654)987-0123",
       "price": "60 $",
       "email": "test14@example.com",
       "zip": "54321",
@@ -135,7 +135,7 @@
     {
       "id": "15",
       "text": "nyx",
-      "phone": "987-012-3456",
+      "phone": "(498)012-3456",
       "price": "65 $",
       "email": "test15@example.com",
       "zip": "54321",
@@ -146,7 +146,7 @@
     {
       "id": "16",
       "text": "Hola16",
-      "phone": "012-345-6789",
+      "phone": "(012) 345-6789",
       "price": "70 $",
       "email": "test16@example.com",
       "zip": "54321",
@@ -157,7 +157,7 @@
     {
       "id": "17",
       "text": "Bonjour17",
-      "phone": "321-654-9870",
+      "phone": "(321) 654-9870",
       "price": "75 $",
       "email": "test17@example.com",
       "zip": "54321",
@@ -168,7 +168,7 @@
     {
       "id": "18",
       "text": "glossier",
-      "phone": "654-987-0123",
+      "phone": "(654) 987-0123",
       "price": "80 $",
       "email": "test18@example.com",
       "zip": "54321",
@@ -179,7 +179,7 @@
     {
       "id": "19",
       "text": "Greetings19",
-      "phone": "987-012-3456",
+      "phone": "(987) 012-3456",
       "price": "85 $",
       "email": "test19@example.com",
       "zip": "54321",
@@ -190,7 +190,7 @@
     {
       "id": "20",
       "text": "Ciao20",
-      "phone": "012-345-6789",
+      "phone": "(012) 345-6789",
       "price": "90 $",
       "email": "test20@example.com",
       "zip": "54321",
